@@ -9,11 +9,11 @@ ManimAI is a cutting-edge, agentic video generation system that transforms vague
 
 ## 🎬 Showcase
 
-[**👉 Click here to watch ManimAI in action!**](./manim_animation_a5ea5736.mp4)
+Watch ManimAI in action!
 
-<video src="./manim_animation_a5ea5736.mp4" controls="controls" muted="muted" width="100%"></video>
+![ManimAI Showcase](./showcase.gif)
 
-*(Note: If the video player above doesn't render in your local Markdown previewer, please click the link above or open `manim_animation_a5ea5736.mp4` directly in the root directory. GitHub will automatically render the video once pushed!)*
+*(This is an actual generated animation from the ManimAI pipeline. High-quality `.mp4` generation is available natively in the application.)*
 
 ---
 
